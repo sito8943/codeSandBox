@@ -1,10 +1,15 @@
-import "./styles.css";
+import { Header } from "./components/Header"
+import { Clock } from "./components/Clock"
+import { Footer } from "./components/Footer"
 
-export default function App() {
+function App() {
   return (
-    <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
-    </div>
+    <>
+      <Header/>
+      <Clock/>
+      <Footer/>
+    </>
   );
 }
+
+export default App;
