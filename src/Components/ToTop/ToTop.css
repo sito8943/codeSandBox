@@ -1,0 +1,13 @@
+.scrollButton {
+   position: fixed; 
+   width: 24px;
+   height: 25px;
+   left: 50%;
+   border-radius: 100%;
+   bottom: 40px;
+   font-size: 3rem;
+   z-index: 1;
+   cursor: pointer;
+   color: aliceblue;
+   background-color: dodgerblue;
+}

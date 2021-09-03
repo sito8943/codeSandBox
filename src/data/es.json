@@ -1,0 +1,18 @@
+{
+    "Login" : {
+        "title" : "Inicia sesión",
+        "user" : "Usuario",
+        "password" : "Contraseña",
+        "forgot" : "Recordar contraseña",
+        "showPassword" : "Mostrar contraseña",
+        "askSignUp" : "¿No tienes una cuenta?",
+        "signUp" : "Registrarse",
+        "back" : "Atrás",
+        "rememberMe" : "Recuérdame"
+    },
+    "NotFound" : {
+        "title" : "Ups! No se encuentra",
+        "paragraph" : " podría haberse eliminado si se cambió su nombre o no está disponible temporalmente. ",
+        "link" : "ir al inicio"
+    }
+}

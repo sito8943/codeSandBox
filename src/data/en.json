@@ -1,0 +1,48 @@
+{
+    "Login" : {
+        "title" : "Log in to continue",
+        "user" : "Email address",
+        "password" : "Password",
+        "showPassword" : "Show password",
+        "hidePassword" : "Hide password",
+        "forgot" : "Forgot password?",
+        "askSignUp" : "Don't have an account?",
+        "signUp" : "Sign up",
+        "back" : "Back",
+        "login" : "Login",
+        "rememberMe" : "Remember me",
+        "invalidEmail" : "Enter a valid email",
+        "requiredEmail" : "Email is required",
+        "invalidPassword" : "Your password must be at least 8 characters. Please try again.",
+        "passwordRequired" : "Password is required",
+        "googleLogin" : "Log with Google"
+    },
+    "Register" : {
+        "title" : "Register",
+        "user" : "Email address",
+        "fname" : "First name",
+        "lname" : "Last name",
+        "password" : "Create password",
+        "forgot" : "Forgot password?",
+        "askLogin" : "Already have an account?",
+        "signUp" : "Sign up",
+        "back" : "Back",
+        "login" : "Log in",
+        "invalidEmail" : "Enter a valid email",
+        "requiredField" : "Required field",
+        "invalidPassword" : "Your password must be at least 8 characters. Please try again.",
+        "googleSignup" : "Sign up with Google",
+        "showPassword" : "Show password",
+        "hidePassword" : "Hide password"
+    },
+    "NotFound" : {
+        "title" : "Oops! Nothing was found",
+        "paragraph" : " might have been removed had its name changed or is temporarily unavailable. ",
+        "link" : "Return to homepage"
+    },
+    "Header" : {
+        "searchPlaceholder" : "Search",
+        "homeLink" : "Home",
+        "searchLink" : "Search"
+    }
+}
